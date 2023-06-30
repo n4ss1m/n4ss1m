@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n4ss1m&label=Profile%20views&color=0e75b6&style=flat" alt="n4ss1m" /> </p>
 
+- 🔭 I’m currently working at **Piteur Studio**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
