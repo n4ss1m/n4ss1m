@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n4ss1m&label=Profile%20views&color=0e75b6&style=flat" alt="n4ss1m" /> </p>
 
+<a href="https://wakatime.com/@09dd369d-9a13-4a74-ab0a-6cdf9be32739"><img src="https://wakatime.com/badge/user/09dd369d-9a13-4a74-ab0a-6cdf9be32739.svg" alt="Total time coded since Mar 12 2018" /></a>
+
 - 🔭 I’m currently working at **Piteur Studio**
 
 <h3 align="left">Connect with me:</h3>
