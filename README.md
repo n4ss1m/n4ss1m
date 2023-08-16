@@ -5,7 +5,7 @@
 
 <a href="https://wakatime.com/@09dd369d-9a13-4a74-ab0a-6cdf9be32739"><img src="https://wakatime.com/badge/user/09dd369d-9a13-4a74-ab0a-6cdf9be32739.svg" alt="Total time coded since Mar 12 2018" /></a>
 
-- 🔭 I’m currently working at  <a href="https://www.piteur-studio.dz">**Piteur Studio**</a>
+- 🔭 I’m working at  <a href="https://www.piteur-studio.dz">**Piteur Studio**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
