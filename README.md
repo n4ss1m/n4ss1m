@@ -1,5 +1,5 @@
 
-# Hi there 👋, I'm Nassim
+## Hi there 👋, I'm Nassim
 
 I'm a Full-Stack Developer, DevOps Engineer, and SaaS Founder from Algeria, focused on building reliable, high-performance web applications.
 
@@ -8,7 +8,8 @@ I'm a Full-Stack Developer, DevOps Engineer, and SaaS Founder from Algeria, focu
 
 🌐 Connect with me on [Telegram](https://t.me/nassimpiter)
 
-# 💻 Tech Stack:
+
+### 💻 Tech Stack:
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -48,3 +49,6 @@ I'm a Full-Stack Developer, DevOps Engineer, and SaaS Founder from Algeria, focu
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+
+### 🌟 Stay updated
+**⬅️ hit the Follow button** to keep in touch and see what I'm working on next!
